@@ -4,6 +4,7 @@
 [![numpy](https://badgen.net/badge/numpy/1.21.1/yellow)](https://numpy.org/)
 [![pandas](https://badgen.net/badge/pandas/1.2.4/yellow)](https://pandas.pydata.org/)
 [![scipy](https://badgen.net/badge/scipy/1.8.0/yellow)](https://scipy.org/)
+[![sklearn](https://badgen.net/badge/sklearn/0.24.1/yellow)](https://scikit-learn.org/stable/)
 [![seaborn](https://badgen.net/badge/seaborn/0.11.1/yellow)](https://seaborn.pydata.org/)
 
 ## Навыки и инструменты
