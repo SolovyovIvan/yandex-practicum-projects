@@ -1,4 +1,10 @@
 # Прогнозирование заказов такси
+## Библиотеки
+[![pandas](https://badgen.net/badge/pandas/1.2.4/yellow)](https://pandas.pydata.org/)
+[![sklearn](https://badgen.net/badge/sklearn/0.24.1/yellow)](https://scikit-learn.org/stable/)
+[![statsmodels](https://badgen.net/badge/statsmodels/0.13.2/yellow)](https://www.statsmodels.org/stable/index.html)
+## Навыки и инструменты
+`прогнозирование временных рядов`, `градиентный бустинг`, `линейная регрессия`. `регуляризация`, `cross validaton`, `grid search`
 ## Описание проекта
 Таксомоторная компания хочет знать количество заказов такси на следующий час, чтобы привлекать больше водителей в периоды пиковой нагрузки. 
 
