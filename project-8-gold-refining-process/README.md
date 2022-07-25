@@ -1,4 +1,12 @@
 # Получение золота из руды
+## Библиотеки
+[![matplot](https://badgen.net/badge/matplotlib/3.3.4/yellow)](https://matplotlib.org/)
+[![numpy](https://badgen.net/badge/numpy/1.21.1/yellow)](https://numpy.org/)
+[![pandas](https://badgen.net/badge/pandas/1.2.4/yellow)](https://pandas.pydata.org/)
+[![sklearn](https://badgen.net/badge/sklearn/0.24.1/yellow)](https://scikit-learn.org/stable/)
+[![seaborn](https://badgen.net/badge/seaborn/1.2.4/yellow)](https://seaborn.pydata.org/)
+## Навыки и инструменты
+`исследовательский анализ данных`, `линейная регрессия`, `регуляризация`, `cross validation`, `grid search`
 ## Описание проекта
 Некоторая компания разрабатывает решения для эффективной работы промышленных предприятий. Требуется построить модель, которая будет прогнозировать коэффициент восстановления золота из золотосодержащей руды, при этом доступны данные с параметрами добычи и очистки.
 
@@ -38,7 +46,6 @@
 * `output` — параметры продукта;
 * `state` — параметры, характеризующие текущее состояние этапа;
 * `calculation` — расчётные характеристики.
+
 Пример: `rougher.input.feed_ag` — размер гранул серебра перед флотацией.
 
-## Инструменты
-`python`, `pandas`, `matplotlib`, `numpy`, `scikit-learn`, `исследовательский анализ данных`
