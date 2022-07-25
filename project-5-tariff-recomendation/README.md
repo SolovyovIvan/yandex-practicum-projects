@@ -1,7 +1,7 @@
 # Классификация клиентов телекоммуникационной компании
 ## Библиотеки
-[![pandas](https://badgen.net/badge/pandas/1.2.4)](https://pandas.pydata.org/)
-[![sklearn](https://badgen.net/badge/sklarn/0.24.1)](https://scikit-learn.org/stable/)
+[![pandas](https://badgen.net/badge/pandas/1.2.4/yellow)](https://pandas.pydata.org/)
+[![sklearn](https://badgen.net/badge/sklearn/0.24.1/yellow)](https://scikit-learn.org/stable/)
 ## Навыки и инструменты
 `случайный лес`, `логистическая регрессия`, `cross validation`, `grid search`
 ## Описание проекта
