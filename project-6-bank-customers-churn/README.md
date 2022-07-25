@@ -17,5 +17,3 @@
 
 ## Описание данных
 Источник: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
-
-## Инструменты
