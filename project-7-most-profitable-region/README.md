@@ -1,4 +1,14 @@
 # Определение наиболее выгодного региона нефтедобычи
+## Библиотеки
+[![matplot](https://badgen.net/badge/matplotlib/3.3.4/yellow)](https://matplotlib.org/)
+[![numpy](https://badgen.net/badge/numpy/1.21.1/yellow)](https://numpy.org/)
+[![pandas](https://badgen.net/badge/pandas/1.2.4/yellow)](https://pandas.pydata.org/)
+[![scipy](https://badgen.net/badge/scipy/1.8.0/yellow)](https://scipy.org/)
+[![seaborn](https://badgen.net/badge/seaborn/0.11.1/yellow)](https://seaborn.pydata.org/)
+
+## Навыки и инструменты
+`линейная регрессия`, `построение доверительных интервалов`, `bootstrap`
+
 ## Описание проекта
 Для добывающей компании нужно решить задачу размещения новой нефтяной скважины.
 На предоставленных данных нужно построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Кроме того, необходимо проанализировать возможную прибыль и риски техникой *Bootstrap*.
@@ -17,6 +27,3 @@
 * `id` — уникальный номер пробы;
 * `f0`, `f1`, `f2` — какие-то характеристики месторождения (подробное описание признаков отсутствует);
 * `product` — объём месторождения (единицы).
-
-## Инструменты
-`pandas`, `scikit-learn`, `bootstrap`
